@@ -1,0 +1,2 @@
+# primul-proiect
+invatare git
